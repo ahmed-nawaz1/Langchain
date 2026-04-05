@@ -1,0 +1,6 @@
+productRecommendation/venv/
+productRecommendation/.env
+productRecommendation/__pycache__/
+productRecommendation/.vscode/
+*.pyc
+.DS_Store

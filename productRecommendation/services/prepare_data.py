@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEndpointEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone, ServerlessSpec
-from retrive_data import get_mongo_client
+from services.retrive_data import get_mongo_client
 import os
 import time
 

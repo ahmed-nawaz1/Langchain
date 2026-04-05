@@ -1,0 +1,7 @@
+# Created by venv
+.env
+__pycache__
+.vscode
+venv/          ← yeh add karo
+*.pyc
+.DS_Store
